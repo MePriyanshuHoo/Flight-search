@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Frontend" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  &#xa0;
 
-## Available Scripts
+  <!-- <a href="https://frontend.netlify.app">Demo</a> -->
+</div>
 
-In the project directory, you can run:
+<h1 align="center">Frontend</h1>
 
-### `npm start`
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/MePriyanshuHoo/Flight-search?color=56BEB8">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/MePriyanshuHoo/Flight-search?color=56BEB8">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MePriyanshuHoo/Flight-search?color=56BEB8">
 
-### `npm test`
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/MePriyanshuHoo/Flight-search?color=56BEB8" /> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/MePriyanshuHoo/Flight-search?color=56BEB8" /> -->
 
-### `npm run build`
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/MePriyanshuHoo/Flight-search?color=56BEB8" /> -->
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- Status -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- <h4 align="center"> 
+	🚧  Frontend 🚀 Under construction...  🚧
+</h4> 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr> -->
 
-### `npm run eject`
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/MePriyanshuHoo" target="_blank">Author</a>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :dart: About ##
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Describe your project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## :sparkles: Features ##
 
-## Learn More
+:heavy_check_mark: City Selection: Users can easily select their departure and destination cities from a dropdown menu or search bar;\
+:heavy_check_mark: Flight Search: The application integrates with a flight API to fetch and display the available flight options based on the selected cities;\
+:heavy_check_mark: Flight Details: Upon selecting a specific flight, users can view additional details such as flight duration, layovers, and airline information;
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :rocket: Technologies ##
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The following tools were used in this project:
 
-### Code Splitting
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Samentic UI](https://semantic-ui.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## :white_check_mark: Requirements ##
 
-### Analyzing the Bundle Size
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## :checkered_flag: Starting ##
 
-### Making a Progressive Web App
+```bash
+# Clone this project
+$ git clone https://github.com/MePriyanshuHoo/Flight-search
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Access
+$ cd frontend
 
-### Advanced Configuration
+# Install dependencies
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Run the project
+$ npm start
 
-### Deployment
+# The server will initialize in the <http://localhost:3000>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## :memo: License ##
 
-### `npm run build` fails to minify
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Made by :squid: <a href="https://github.com/MePriyanshuHoo" target="_blank">Priyanshu Vishwakarma</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
