@@ -6,7 +6,7 @@
   <!-- <a href="https://frontend.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Frontend</h1>
+<h1 align="center">Flight Price Search</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/MePriyanshuHoo/Flight-search?color=56BEB8">
@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-Describe your project
+This project is a flight price search portal that allows users to find the cheapest options for flying between any two selected cities. Built with React and Node.js, this web application provides a user-friendly interface for searching and comparing flight prices.
 
 ## :sparkles: Features ##
 
